@@ -9,6 +9,6 @@
  */
 
 module.exports.routes = {
-    'get /': '/api/jokes',
-    'get /api/jokes': 'UserController.getUsers'
+    'get /': '/api/users',
+    'get /api/users': 'UserController.getUsers'
 };
