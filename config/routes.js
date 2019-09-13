@@ -10,5 +10,8 @@
 
 module.exports.routes = {
     'get /': '/api/users',
-    'get /api/users': 'UserController.getUsers'
+    'get /api/users': 'UserController.getUsers',
+    'get /api/random-user': 'UserController.getRandomUser',
+    
+    'post /api/sendemail': 'EmailController.sendEmail'
 };

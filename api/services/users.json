@@ -7,8 +7,8 @@
           "sleeping",
           "Travel"
         ],
-        "job": "Writing Software",
-        "Salary": 20609888434,
+        "job": "Blogger",
+        "salary": 2060,
         "id": 1
     },
     {
@@ -19,7 +19,7 @@
           "romancing"
         ],
         "job": "Spy",
-        "Salary": 67890800000,
+        "salary": 67890800000,
         "id": 2
     },
     {
@@ -28,7 +28,7 @@
           "NA"
         ],
         "job": "I know it best",
-        "Salary": 5673099094800238094932083,
+        "salary": 5673099094800238094932083,
         "id": 3
     },
     {
@@ -37,7 +37,7 @@
           "Soccer"
         ],
         "job": "Dentist",
-        "Salary": 10084038403,
+        "salary": 10084038403,
         "id": 4
     },
     {
@@ -47,7 +47,7 @@
           "dance"
         ],
         "job": "Technical Writer",
-        "Salary": 500,
+        "salary": 500,
         "id": 5
     }
 ]
