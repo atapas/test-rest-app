@@ -13,7 +13,7 @@ module.exports.sendEmail = function(payload) {
 
 
     let mailOptions = {
-        from: 'emailbotgreenrooots@gmail.com',
+        from: payload['from'],
         to: subscribedUser,
         subject: 'Email from Node-App: A Test Message!',
         text: content
